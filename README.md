@@ -3,7 +3,7 @@ Olá, meu nome é Rafael 🐱‍👤👋
  <div>
    <a href="https://github.com/rafaelserpaa">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelserpaa&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelserpaa&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelserpaa&layout=compact&langs_count=6&theme=vision-friendly-dark"/>
 
 </div>
 <div style="display: inline_block"><br>
